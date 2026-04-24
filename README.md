@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/jonathan-gedeon-">First Responder 🚨🚒🚑</a>
 </h1>
 
-I’m an **apprentice junior DevOps engineer** building real-world skills in **AWS Lambda & serverless**, **Terraform (IaC)**, **Jenkins (CI/CD)**, and **Kubernetes (K8s)**.  
+I’m an **apprentice junior DevOps engineer** building real-world skills in **AWS Lambda & serverless**, **Terraform (IaC)**, **GitHub Actions, HCP, AWS Code Pipeline (CI/CD)**, and **Kubernetes (K8s)**.  
 I’m a curious person with a lifelong commitment to **learning** and to **mental, physical, and spiritual growth**.  
 This GitHub is where I **document and showcase my projects** and share my progress in public.
 
@@ -11,7 +11,7 @@ This GitHub is where I **document and showcase my projects** and share my progre
 - Designing **serverless workflows** with Lambda (event-driven patterns)
 - **Event-driven AWS**: API Gateway, SQS, DynamoDB, Step Functions
 - Writing **infrastructure as code** with Terraform
-- **CI/CD on AWS**: CodePipeline, CodeBuild (alongside Jenkins)
+- **CI/CD on AWS**: CodePipeline, CodeBuild
 - Building **Jenkins pipelines** for automated testing and deployments
 - Learning **Kubernetes fundamentals** for container orchestration
 
