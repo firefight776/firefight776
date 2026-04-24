@@ -7,25 +7,24 @@ I’m an aspiring DevOps engineer focused on building production-ready skills ac
 My experience centers on IAM, VPC networking, EC2, S3, and CloudWatch, combined with Terraform (Infrastructure as Code) and CI/CD pipelines using GitHub Actions. I also work with containerized workloads and orchestration using Docker and Kubernetes. I prioritize real-world, production-style implementations—automating infrastructure, improving reliability, and building repeatable deployment workflows. This GitHub serves as a living portfolio where I document projects, showcase practical solutions, and track my progress in public.
 
 ## 🔭 What I’m focusing on right now
-- Designing **serverless workflows** with Lambda (event-driven patterns)
-- **Event-driven AWS**: API Gateway, SQS, DynamoDB, Step Functions
-- Writing **infrastructure as code** with Terraform
-- **CI/CD on AWS**: CodePipeline, CodeBuild
-- Building **Jenkins pipelines** for automated testing and deployments
-- Learning **Kubernetes fundamentals** for container orchestration
+Designing event-driven AWS architectures using Lambda, API Gateway, SQS, DynamoDB, and Step Functions
+Building and automating infrastructure using Terraform (Infrastructure as Code)
+Developing CI/CD pipelines for automated build, test, and deployment workflows (GitHub Actions, Jenkins, AWS CodePipeline)
+Working with containerized applications (Docker) and learning Kubernetes in real-world deployment scenarios
+Implementing monitoring, logging, and least-privilege IAM practices for secure and observable systems
 
 ## Tech/toolbox
 - **AWS:** Lambda, API Gateway, S3, EC2, IAM, VPC, Route 53, SQS, DynamoDB
-- **DevOps:** Terraform, Jenkins, Git/GitHub, Docker, Bash/Linux
-- **Languages:** Python (Lambda), YAML/JSON for configs
-- **Ops:** Monitoring/logging with CloudWatch basics, least-privilege IAM mindset
+- **DevOps:** Terraform, Github Actions, Git/GitHub, Docker, Bash/Linux
+- **Languages:** Python, Bash, YAML, JSON
+- **Operations:** CloudWatch (monitoring/logging), IAM security best practices
 
-## Goals for this repo
-- ✅ Track hands-on labs and project write-ups  
-- ✅ Share code samples, IaC templates, and pipeline configs  
-- ✅ Reflect on lessons learned and next steps
+## Purpose of This Repository
+- ✅ Document production-style projects and hands-on implementations
+- ✅ Share Infrastructure as Code, CI/CD pipelines, and automation workflows 
+- ✅ Capture real-world troubleshooting, lessons learned, and improvements
 
-If you’re hiring or have feedback, I’m always open to suggestions and mentorship 🙏
+If you’re hiring or open to sharing feedback, I’m always looking to learn and improve 🙏
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
