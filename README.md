@@ -3,9 +3,8 @@
   <a href="https://www.linkedin.com/in/jonathan-gedeon-">First Responder 🚨🚒🚑</a>
 </h1>
 
-I’m an **apprentice junior DevOps engineer** building real-world skills in **AWS Lambda & serverless**, **Terraform (IaC)**, **GitHub Actions, HCP, AWS Code Pipeline (CI/CD)**, and **Kubernetes (K8s)**.  
-I’m a curious person with a lifelong commitment to **learning** and to **mental, physical, and spiritual growth**.  
-This GitHub is where I **document and showcase my projects** and share my progress in public.
+I’m an aspiring DevOps engineer focused on building production-ready skills across core AWS services, infrastructure automation, and CI/CD.
+My experience centers on IAM, VPC networking, EC2, S3, and CloudWatch, combined with Terraform (Infrastructure as Code) and CI/CD pipelines using GitHub Actions. I also work with containerized workloads and orchestration using Docker and Kubernetes. I prioritize real-world, production-style implementations—automating infrastructure, improving reliability, and building repeatable deployment workflows. This GitHub serves as a living portfolio where I document projects, showcase practical solutions, and track my progress in public.
 
 ## 🔭 What I’m focusing on right now
 - Designing **serverless workflows** with Lambda (event-driven patterns)
