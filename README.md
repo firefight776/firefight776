@@ -3,17 +3,23 @@
   <a href="https://www.linkedin.com/in/jonathan-gedeon-">First Responder 🚨🚒🚑</a>
 </h1>
 
-I’m an aspiring DevOps engineer focused on building production-ready skills across core AWS services, infrastructure automation, and CI/CD.
-My experience centers on IAM, VPC networking, EC2, S3, and CloudWatch, combined with Terraform (Infrastructure as Code) and CI/CD pipelines using GitHub Actions. I also work with containerized workloads and orchestration using Docker and Kubernetes. I prioritize real-world, production-style implementations—automating infrastructure, improving reliability, and building repeatable deployment workflows. This GitHub serves as a living portfolio where I document projects, showcase practical solutions, and track my progress in public.
+I’m focused on building real-world cloud infrastructure, automation, observability, and operational troubleshooting skills across AWS and Kubernetes environments.
+
+My hands-on experience includes AWS infrastructure, Terraform (Infrastructure as Code), CI/CD automation, containerized workloads, Kubernetes orchestration, monitoring, and incident response workflows. I’ve built production-style projects using EKS, Docker, Prometheus, Grafana, CloudWatch, Alertmanager, DynamoDB, GitHub Actions, and core AWS networking/security services.
+
+I’m especially interested in Cloud Engineering, Cloud Support Engineering, Infrastructure Operations, Systems Administration, DevOps, and platform-focused roles where I can continue developing operational and cloud infrastructure expertise.
+
+This GitHub serves as a living portfolio where I document projects, architecture decisions, troubleshooting scenarios, operational incidents, and lessons learned while building cloud-native systems.
 
 ## 🔭 What I’m focusing on right now
 Designing event-driven AWS architectures using Lambda, API Gateway, SQS, DynamoDB, and Step Functions
 Building and automating infrastructure using Terraform (Infrastructure as Code)
 Developing CI/CD pipelines for automated build, test, and deployment workflows (GitHub Actions, Jenkins, AWS CodePipeline)
-Working with containerized applications (Docker) and learning Kubernetes in real-world deployment scenarios
-Implementing monitoring, logging, and least-privilege IAM practices for secure and observable systems
+Deploying and troubleshooting containerized applications using Docker and Kubernetes
+Implementing observability and monitoring with Prometheus, Grafana, CloudWatch, and Alertmanager
+Strengthening Linux administration, IAM security, networking, logging, and operational troubleshooting skills
 
-## Tech/toolbox
+## 🛠️ Tech / Toolbox
 - **AWS:** Lambda, API Gateway, S3, EC2, IAM, VPC, Route 53, SQS, DynamoDB
 - **DevOps:** Terraform, Github Actions, Git/GitHub, Docker, Bash/Linux
 - **Languages:** Python, Bash, YAML, JSON
