@@ -32,16 +32,6 @@ Strengthening Linux administration, IAM security, networking, logging, and opera
 
 If you’re hiring or open to sharing feedback, I’m always looking to learn, improve, and connect with others in cloud and infrastructure engineering 🙏
 
-<h2>👨‍💻 Cloud Engineering Projects:</h2>
-
-- <b> DevOps Projects </b>
- 
-- <b>Kubernetes Projects</b>
-  
-- <b> Terraform Projects</b>
-  
-- <b> Jenkins Projects</b>
-
 <h2> 🤳 Connect with me:</h2>
 
 
