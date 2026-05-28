@@ -2,7 +2,7 @@
   <a href="https://github.com/firefight776">Cloud Engineering • Infrastructure Operations • DevOps</a> •
   <a href="https://www.linkedin.com/in/jonathan-gedeon-">First Responder 🚨🚒🚑</a>
 </h1>
-I’m focused on building real-world cloud infrastructure, automation, observability, and operational troubleshooting skills across AWS and Kubernetes environments.
+I’m building real-world cloud infrastructure, automation, observability, and operational troubleshooting skills across AWS and Kubernetes environments.
 
 My hands-on experience includes AWS infrastructure, Terraform (Infrastructure as Code), CI/CD automation, containerized workloads, Kubernetes orchestration, monitoring, and incident response workflows. I’ve built production-style projects using EKS, Docker, Prometheus, Grafana, CloudWatch, Alertmanager, DynamoDB, GitHub Actions, and core AWS networking/security services.
 
