@@ -2,7 +2,7 @@
   <a href="https://github.com/firefight776">IT Support • Systems Administration • Cloud Support</a> •
   <a href="https://www.linkedin.com/in/jonathan-gedeon-">First Responder 🚨🚒🚑</a>
 </h1>
-Welcome to my Github page! I'm a current first responder and aspiring IT professional building hands-on experience in Windows Server, Active Directory, networking, PowerShell, ticketing systems, and AWS cloud infrastructure through self-directed home labs and production-style cloud projects.
+Welcome to my Github page! I'm a current first responder and aspiring IT professional building hands-on experience in Windows Server, Active Directory, networking, PowerShell, ticketing systems, and AWS cloud infrastructure through home labs and production-style cloud projects.
 
 My immediate goal is to begin my career in an IT Support, Help Desk, or Service Desk role where I can strengthen my troubleshooting and systems administration skills while building the real-world experience that serves as the foundation for a career in Cloud Support and Cloud Engineering.
 
