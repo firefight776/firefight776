@@ -1,36 +1,83 @@
 <h1>Hi, I'm Jonathan<br/>
-  <a href="https://github.com/firefight776">Cloud Engineering • Infrastructure Operations • DevOps</a> •
+  <a href="https://github.com/firefight776">IT Support • Systems Administration • Cloud Support</a> •
   <a href="https://www.linkedin.com/in/jonathan-gedeon-">First Responder 🚨🚒🚑</a>
 </h1>
-I’m building real-world cloud infrastructure, automation, observability, and operational troubleshooting skills across AWS and Kubernetes environments.
+Welcome to my Github page! I'm a current first responder and aspiring IT professional building hands-on experience in Windows Server, Active Directory, networking, PowerShell, ticketing systems, and AWS cloud infrastructure through self-directed home labs and production-style cloud projects.
 
-My hands-on experience includes AWS infrastructure, Terraform (Infrastructure as Code), CI/CD automation, containerized workloads, Kubernetes orchestration, monitoring, and incident response workflows. I’ve built production-style projects using EKS, Docker, Prometheus, Grafana, CloudWatch, Alertmanager, DynamoDB, GitHub Actions, and core AWS networking/security services.
+My immediate goal is to begin my career in an IT Support, Help Desk, or Service Desk role where I can strengthen my troubleshooting and systems administration skills while building the real-world experience that serves as the foundation for a career in Cloud Support and Cloud Engineering.
 
-I’m especially interested in Cloud Engineering, Cloud Support Engineering, Infrastructure Operations, Systems Administration, DevOps, and platform-focused roles where I can continue developing operational and cloud infrastructure expertise.
+I'm especially interested in Help Desk, IT Support, Technical Support, Service Desk, Desktop Support, and Junior Systems Administration roles.
 
-This GitHub serves as a living portfolio where I document projects, architecture decisions, troubleshooting scenarios, operational incidents, and lessons learned while building cloud-native systems.
+This GitHub serves as a living portfolio where I document IT support labs, systems administration projects, troubleshooting scenarios, cloud infrastructure projects, architecture decisions, operational incidents, and lessons learned as I continue developing the technical skills needed to support both enterprise IT environments and cloud-native systems.
 
-## 🔭 What I’m focusing on right now
-Building a cloud-native migration and safe deployment platform focused on migrating a legacy EC2-hosted application into a modern containerized AWS environment
-Building and automating infrastructure using Terraform (Infrastructure as Code)
-Developing CI/CD pipelines for automated build, test, and deployment workflows (GitHub Actions, AWS CodePipeline)
-Deploying and troubleshooting containerized applications using Docker and Kubernetes
-Implementing observability and monitoring with Prometheus, Grafana, CloudWatch, and Alertmanager
-Strengthening Linux administration, IAM security, networking, logging, and operational troubleshooting skills
+## 🔭 What I'm Currently Working On
+
+- Building an enterprise Windows Server and Active Directory home lab to strengthen systems administration skills
+- Simulating real-world IT Support and Help Desk scenarios using osTicket, including user management, password resets, account lockouts, file permissions, DNS, DHCP, and printer troubleshooting
+- Expanding networking knowledge through a pfSense lab with VLANs, firewall rules, VPN, and Windows domain integration
+- Building and automating AWS infrastructure using Terraform (Infrastructure as Code)
+- Developing CI/CD pipelines with GitHub Actions and AWS CodePipeline
+- Deploying and troubleshooting containerized applications using Docker and Kubernetes
+- Implementing observability and monitoring with Prometheus, Grafana, CloudWatch, and Alertmanager
+- Continuing to strengthen Linux administration, PowerShell, networking, IAM security, logging, and operational troubleshooting skills
 
 ## 🛠️ Tech / Toolbox
-- **AWS:** EKS, ECS, Lambda, API Gateway, S3, EC2, IAM, VPC, Route 53, SQS, DynamoDB, Cloudwatch
-- **DevOps:** Terraform, Github Actions, Git/GitHub, Docker, Bash/Linux, Kubernetes
-- **Languages:** Python, Bash, YAML, JSON
-- **Operations:** CloudWatch (monitoring/logging), IAM security best practices
+
+### IT Support & Systems Administration
+- Windows Server 2022
+- Windows 10/11
+- Active Directory
+- Group Policy
+- DNS
+- DHCP
+- NTFS Permissions
+- SMB File Shares
+- Microsoft 365 (Learning)
+- osTicket
+- PowerShell
+- Remote Desktop
+- Printer Troubleshooting
+
+### Networking
+- TCP/IP
+- pfSense
+- VLANs
+- VPN
+- DNS
+- DHCP
+- Routing & Firewall Rules
+
+### Cloud & Infrastructure
+- AWS: EC2, ECS, EKS, Lambda, API Gateway, S3, IAM, VPC, Route 53, SQS, DynamoDB, CloudWatch
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- Git/GitHub
+
+### Languages
+- PowerShell
+- Python
+- Bash
+- YAML
+- JSON
 
 ## Purpose of This Repository
-- ✅ Document production-style projects and hands-on implementations
-- ✅ Share Infrastructure as Code, CI/CD pipelines, and automation workflows 
-- ✅ Capture troubleshooting scenarios, operational incidents, and recovery processes
-- ✅ Continuously improve cloud engineering and infrastructure operations skills
 
-If you’re hiring or open to sharing feedback, I’m always looking to learn, improve, and connect with others in cloud and infrastructure engineering 🙏
+This repository documents my transition into IT and my progression toward Cloud Support and Cloud Engineering through hands-on labs and production-style projects.
+
+Here you'll find:
+
+- ✅ Windows Server and Active Directory administration labs
+- ✅ IT Support and Help Desk troubleshooting scenarios
+- ✅ AWS cloud infrastructure and Infrastructure as Code projects
+- ✅ Automation with Terraform, PowerShell, and GitHub Actions
+- ✅ Networking, security, and systems administration projects
+- ✅ Operational documentation, incident response, and lessons learned
+
+I'm currently seeking opportunities in IT Support, Help Desk, Technical Support, and Junior Systems Administration while continuing to build toward a career in Cloud Support and Cloud Engineering.
+
+If you're hiring, collaborating, or simply interested in discussing technology, I'd love to connect. 🙏
 
 <h2> 🤳 Connect with me:</h2>
 
